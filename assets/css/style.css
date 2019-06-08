@@ -1,0 +1,26 @@
+body{
+    background-image: url("/Users/kuldeep/monali/TriviaGame/assets/images/back_image.jpg");
+
+    background-repeat: no-repeat;
+
+    background-size: cover
+}
+
+button{
+    
+    margin: auto;
+
+    align-self: center;
+
+    margin-top: 45%;
+
+    margin-left: 40%;
+
+    height: 12vh;
+
+    font-size: 10vh;
+    
+    border: solid;
+
+}
+

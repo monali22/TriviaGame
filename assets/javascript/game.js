@@ -202,7 +202,7 @@ $(document).ready(function(){
 
             var intervalID;
 
-            intervalId = setInterval(decrement, 1000);
+            intervalId = setInterval(decrement,6000);
 
             function decrement() {
 
